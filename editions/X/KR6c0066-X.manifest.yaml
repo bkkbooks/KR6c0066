@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0066_000-X.yaml, hash: 'sha256:da451e79655898a8ea252e59935e155c29b2ff2f6f9c51ad17d526948d1af8c2'}
+  - {seq: 0, filename: KR6c0066_000-X.yaml, hash: 'sha256:422cf65f8ca1f3d05bc1d6ffe5a7d6f6a43589e6adb3964a571a765f9b20b341'}
   - {seq: 1, filename: KR6c0066_001-X.yaml, hash: 'sha256:5a984983331348787f080cfe1c93f9bda4692f51fe4797b24e8db19ffcd83f12'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0066_000-X.markers.yaml, hash: 'sha256:21db2d55a55f6bd24ba2fabd871649a3a8bfdd775f6c30a2039bbbc24aa5a430'}
+  - {seq: 0, role: markers, filename: assets/KR6c0066_000-X.markers.yaml, hash: 'sha256:8af87380516c7ef3049acf9fa7aec79ad784a120476d32732a8b3a143edbc8aa'}
   - {seq: 1, role: markers, filename: assets/KR6c0066_001-X.markers.yaml, hash: 'sha256:e398cabd7bb0eb6917fed410066c634b54d9bc661a6a09c06d5faa2ed73dadcc'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0066_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 478-A 金剛經筆記序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0066_X_000-mulu-2
     span:
-    - front
+    - body
     - 479
     - 479
   label: No. 478-B 金剛般若波羅蜜經筆記自序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0066_X_000-mulu-3
     span:
-    - front
+    - body
     - 945
     - 945
   label: 金剛般若波羅蜜經筆記
@@ -65,4 +65,4 @@ table_of_contents:
   label: 金剛般若波羅蜜經筆記
   type: juan
   level: 1
-hash: sha256:b4ce4c14031bb1ba7fb13f499e55daa22b31d011d61e780e519d685b8529b622
+hash: sha256:2f215b743d06ab08fa920299b92203219a14fb2bad0a530ef21550cb2da1537f
